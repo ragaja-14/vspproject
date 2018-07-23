@@ -9,9 +9,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
 
-<link href="bootstrap1/css/bootstrap.css" rel="stylesheet" />
-<link href="bootstrap1/css/bootstrap-theme.css" rel="stylesheet" />
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>PURCHASE ORDER FORM FOR BUYERS</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
